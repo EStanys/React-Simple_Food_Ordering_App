@@ -8,9 +8,9 @@ return (
   <Fragment>
     <header className={classes.header}>
       <h1>ReactMeals</h1>
-      <HeaderCardButton/>
+      <HeaderCardButton />
     </header>
-    <div className={classes['main-image']} > 
+    <div className={classes['main-image']}>
       <img src={mealsImage} alt="mealsImage" />
     </div>
   </Fragment>
